@@ -1,0 +1,41 @@
+{
+  "title": "About Our Festival Platform",
+  "subtitle": "Connecting filmmakers and festival organizers worldwide through a seamless, innovative platform.",
+  "stats": [
+    { "label": "Festivals Hosted", "value": "10,000+" },
+    { "label": "Submissions Processed", "value": "1M+" },
+    { "label": "Filmmakers Connected", "value": "500K+" },
+    { "label": "Countries Reached", "value": "150+" }
+  ],
+  "values": [
+    {
+      "title": "Community",
+      "description": "We foster a global community of filmmakers and festival organizers."
+    },
+    {
+      "title": "Simplicity",
+      "description": "Our platform makes submitting and managing festivals easy and intuitive."
+    },
+    {
+      "title": "Innovation",
+      "description": "We leverage technology to streamline the festival experience."
+    },
+    {
+      "title": "Passion",
+      "description": "We are dedicated to celebrating storytelling through film."
+    }
+  ],
+  "story": {
+    "title": "Our Story",
+    "paragraphs": [
+      "Our platform was born from a passion for storytelling and a desire to simplify the connection between filmmakers and festivals. We started with a vision to create a seamless, global hub for film submissions.",
+      "Over the years, we've grown into the world's leading platform for film festival submissions, helping thousands of filmmakers share their stories and enabling festivals to discover incredible talent.",
+      "From indie filmmakers to major festivals, our platform empowers creativity and connection, making the festival experience accessible and rewarding for all."
+    ]
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To empower filmmakers and festival organizers by providing a user-friendly platform that simplifies submissions, enhances discoverability, and celebrates cinematic storytelling.",
+    "slogan": "Connecting Stories, Inspiring Creativity"
+  }
+}

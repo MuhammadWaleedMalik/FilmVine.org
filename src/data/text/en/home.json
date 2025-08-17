@@ -1,0 +1,56 @@
+  {
+    "page1": {
+      "title": "Discover Amazing Festivals",
+      "subtitle": "The world's #1 way to enter film festivals and screenplay contests",
+      "exploreButton": "Learn More"
+    },
+    "page2": {
+      "title": "Trusted by Industry Leaders",
+      "trustedPartners": "https://static-assets.filmfreeway.com/assets/logos/dark_logo_row-1-731b394b2f694f0e63d4a09b52cf767e2e17092bb0a14da808ae4a5656a0086d.webp"
+    },
+    "page3": {
+      "title": "Explore Our Services",
+      "cards": [
+        {
+          "title": "Discover Amazing Festivals",
+          "content": "Browse thousands of the world's top film festivals and contests.",
+          "link": "/festivals"
+        },
+        {
+          "title": "The Smart and Easy Way to Submit",
+          "content": "Add your project then click to submit. Simple and fast.",
+          "link": "/submit"
+        },
+        {
+          "title": "Game Changing for Festivals and Contests",
+          "content": "Receive entries, sell tickets, promote and manage your event.",
+          "link": "/manage"
+        }
+      ]
+    },
+    "page4": {
+      "title": "What Our Customers Say",
+      "reviews": [
+        {
+          "content": "FilmFreeway made submitting to festivals so easy and efficient!",
+          "author": "Alex P."
+        },
+        {
+          "content": "The platform helped us manage our festival seamlessly.",
+          "author": "Maria T."
+        },
+        {
+          "content": "A game-changer for discovering global film contests.",
+          "author": "John K."
+        }
+      ]
+    },
+    "page5": {
+      "title": "Festival Highlights",
+      "images": []
+    },
+    "page6": {
+      "title": "Join Our Community Today",
+      "signUpButton": "Get Started"
+    }
+  }

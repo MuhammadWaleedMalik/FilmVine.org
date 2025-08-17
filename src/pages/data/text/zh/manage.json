@@ -1,0 +1,26 @@
+{
+  "title": "管理您的电影节提醒",
+  "subtitle": "为即将到来的电影节设置提醒，并在活动当天收到通知。",
+  "form": {
+    "title": "创建电影节提醒",
+    "festivalNameLabel": "电影节名称",
+    "dateLabel": "电影节日期",
+    "notificationLabel": "通知偏好",
+    "notificationOptions": [
+      {
+        "value": "day-of",
+        "label": "活动当天"
+      },
+      {
+        "value": "one-day-before",
+        "label": "提前一天"
+      },
+      {
+        "value": "one-week-before",
+        "label": "提前一周"
+      }
+    ],
+    "submitButton": "设置提醒",
+    "confirmationMessage": "您的提醒已设置！我们将按您的要求通知您。"
+  }
+}

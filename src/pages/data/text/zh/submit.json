@@ -1,0 +1,14 @@
+{
+  "title": "提交您的电影节",
+  "subtitle": "在我们的平台上注册您的电影节，与全球电影人建立联系。",
+  "form": {
+    "title": "电影节注册表",
+    "festivalNameLabel": "电影节名称",
+    "descriptionLabel": "电影节描述",
+    "locationLabel": "地点",
+    "startDateLabel": "开始日期",
+    "endDateLabel": "结束日期",
+    "contactEmailLabel": "联系邮箱",
+    "submitButton": "注册电影节"
+  }
+}

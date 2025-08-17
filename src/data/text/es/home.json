@@ -1,0 +1,43 @@
+{
+  "page1": {
+    "title": "Empowering Your Tax Management",
+    "subtitle": "Streamline compliance and optimize your financial strategy with our tax solutions"
+  },
+  "page2": {
+    "leftText": "Our advanced tax solutions leverage cutting-edge technology to simplify compliance, automate calculations, and provide real-time insights into your tax obligations across multiple jurisdictions.",
+    "rightText": "From small businesses to global enterprises, our tailored software and consulting services help you navigate complex tax regulations with confidence and efficiency."
+  },
+  "page3": {
+    "centeredText": "Why Choose Our Tax Solutions?",
+    "subText": "Our platform combines secure, scalable software with expert guidance to ensure your tax processes are accurate, compliant, and optimized for your business needs."
+  },
+  "page4": {
+    "title": "Explore Our Tax Services",
+    "cards": [
+      {
+        "title": "Tax Software Development",
+        "content": "Custom software for automating tax calculations, filings, and reporting, tailored to your business.",
+        "link": "/services/software-development"
+      },
+      {
+        "title": "Tax Security Solutions",
+        "content": "Secure your tax data with encryption, blockchain, and AI-driven anomaly detection.",
+        "link": "/services/security"
+      },
+      {
+        "title": "Tax Consultation",
+        "content": "Expert guidance on country-specific tax laws and compliance strategies.",
+        "link": "/services/tax-consultation"
+      }
+    ]
+  },
+  "page5": {
+    "mainText": "Trusted by Businesses Worldwide",
+    "subText": "Our tax solutions have empowered businesses of all sizes to manage taxes efficiently, with secure software and expert support."
+  },
+  "exemplaryQuestions": [
+    "How can custom tax software improve my compliance process?",
+    "What security measures protect my tax data?",
+    "How do I navigate tax regulations in multiple countries?"
+  ]
+}

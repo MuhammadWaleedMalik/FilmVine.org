@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "nameAlt": "WFCN Platform",
+    "slogan": "Innovating Solutions"
+  },
+  "navigation": {
+    "title": "Navigation",
+    "links": [
+      { "path": "/about", "label": "About" },
+
+
+      { "path": "/blogs", "label": "Blogs" },
+
+      { "path": "/movies", "label": "Lists" },
+ 
+      { "path": "/faqs", "label": "FAQs" },
+      { "path": "/contact", "label": "Contact" }
+    ]
+  },
+  "legal": {
+    "title": "Legal",
+    "links": [
+      { "path": "/terms", "label": "Terms" },
+      { "path": "/privacy", "label": "Privacy" }  
+ 
+
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "info": [
+      { "type": "mail", "text": "info@weinko.com" },
+      { "type": "phone", "text": "+1-234-567-890" }
+    ]
+  },
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Instagram", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "© {year}",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

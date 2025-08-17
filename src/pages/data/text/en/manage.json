@@ -1,0 +1,26 @@
+{
+  "title": "Manage Your Festival Reminders",
+  "subtitle": "Set reminders for upcoming film festivals and get notified on the event date.",
+  "form": {
+    "title": "Create a Festival Reminder",
+    "festivalNameLabel": "Festival Name",
+    "dateLabel": "Festival Date",
+    "notificationLabel": "Notification Preference",
+    "notificationOptions": [
+      {
+        "value": "day-of",
+        "label": "Day of Event"
+      },
+      {
+        "value": "one-day-before",
+        "label": "One Day Before"
+      },
+      {
+        "value": "one-week-before",
+        "label": "One Week Before"
+      }
+    ],
+    "submitButton": "Set Reminder",
+    "confirmationMessage": "Your reminder has been set! You'll be notified as requested."
+  }
+}

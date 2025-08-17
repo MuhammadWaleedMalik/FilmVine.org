@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "nameAlt": "WFCN プラットフォーム",
+    "slogan": "革新的なソリューション"
+  },
+  "navigation": {
+    "title": "ナビゲーション",
+    "links": [
+      { "path": "/about", "label": "概要" },
+      { "path": "/blogs", "label": "ブログ" },
+      { "path": "/movies", "label": "リスト" },
+      { "path": "/faqs", "label": "よくある質問" },
+      { "path": "/contact", "label": "お問い合わせ" }
+    ]
+  },
+  "legal": {
+    "title": "法律",
+    "links": [
+      { "path": "/terms", "label": "利用規約" },
+      { "path": "/privacy", "label": "プライバシーポリシー" }
+    ]
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "info": [
+      { "type": "mail", "text": "info@weinko.com" },
+      { "type": "phone", "text": "+1-234-567-890" }
+    ]
+  },
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Instagram", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "© {year}",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  }
+}

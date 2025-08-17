@@ -1,0 +1,22 @@
+{
+  "title": "Privacy Policy",
+  "subtitle": "Your privacy is important to us",
+  "content": [
+    "This Privacy Policy describes how we collect, use, and protect your personal information.",
+    "We are committed to protecting your privacy and ensuring the security of your personal data."
+  ],
+  "sections": [
+    {
+      "title": "Information We Collect",
+      "content": "We collect information you provide directly to us, such as when you create an account or contact us."
+    },
+    {
+      "title": "How We Use Your Information",
+      "content": "We use the information we collect to provide, maintain, and improve our services."
+    },
+    {
+      "title": "Data Security",
+      "content": "We implement appropriate security measures to protect your personal information."
+    }
+  ]
+}

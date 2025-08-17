@@ -1,0 +1,16 @@
+{
+  "logoAlt": "ExactPilot",
+  "nav": {
+    "home": "ホーム",
+    "about": "会社概要",
+    "services": "サービス",
+    "blog": "ブログ",
+    "explore": "探す",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "logout": "ログアウト"
+  },
+  "languageSelector": {
+    "changeLanguageLabel": "言語を変更"
+  }
+}

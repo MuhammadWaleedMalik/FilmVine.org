@@ -1,0 +1,26 @@
+{
+  "title": "映画祭リマインダーの管理",
+  "subtitle": "今後の映画祭のリマインダーを設定し、イベント当日に通知を受け取りましょう。",
+  "form": {
+    "title": "映画祭リマインダーを作成",
+    "festivalNameLabel": "映画祭の名前",
+    "dateLabel": "映画祭の日付",
+    "notificationLabel": "通知の設定",
+    "notificationOptions": [
+      {
+        "value": "day-of",
+        "label": "イベント当日"
+      },
+      {
+        "value": "one-day-before",
+        "label": "1日前"
+      },
+      {
+        "value": "one-week-before",
+        "label": "1週間前"
+      }
+    ],
+    "submitButton": "リマインダーを設定",
+    "confirmationMessage": "リマインダーが設定されました！ご希望のタイミングで通知いたします。"
+  }
+}

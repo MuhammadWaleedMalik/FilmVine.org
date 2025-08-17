@@ -1,0 +1,22 @@
+{
+  "title": "Cookie政策",
+  "subtitle": "关于我们网站使用Cookie的情况",
+  "content": [
+    "我们的网站使用Cookie以提升用户体验。",
+    "Cookie是访问网站时存储在设备上的小型文本文件。"
+  ],
+  "sections": [
+    {
+      "title": "必要Cookie",
+      "content": "这些Cookie对网站功能至关重要，无法禁用。"
+    },
+    {
+      "title": "分析Cookie",
+      "content": "用于了解访问者如何与我们的网站互动。"
+    },
+    {
+      "title": "设置Cookie",
+      "content": "这些Cookie使我们能够记住用户所做的选择。"
+    }
+  ]
+}

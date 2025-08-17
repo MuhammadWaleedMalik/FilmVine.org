@@ -1,0 +1,56 @@
+{
+  "page1": {
+    "title": "素晴らしい映画祭を発見",
+    "subtitle": "映画祭や脚本コンテストに応募する世界No.1の方法",
+    "exploreButton": "もっと見る"
+  },
+  "page2": {
+    "title": "業界のリーダーから信頼されています",
+    "trustedPartners": "https://static-assets.filmfreeway.com/assets/logos/dark_logo_row-1-731b394b2f694f0e63d4a09b52cf767e2e17092bb0a14da808ae4a5656a0086d.webp"
+  },
+  "page3": {
+    "title": "私たちのサービスを探索",
+    "cards": [
+      {
+        "title": "素晴らしい映画祭を発見",
+        "content": "世界中のトップ映画祭やコンテストを数千件閲覧できます。",
+        "link": "/festivals"
+      },
+      {
+        "title": "スマートで簡単な応募方法",
+        "content": "プロジェクトを追加してクリックで応募。シンプルかつ迅速。",
+        "link": "/submit"
+      },
+      {
+        "title": "映画祭やコンテストを変える革新的なサービス",
+        "content": "応募受付、チケット販売、宣伝、イベント管理が可能です。",
+        "link": "/manage"
+      }
+    ]
+  },
+  "page4": {
+    "title": "お客様の声",
+    "reviews": [
+      {
+        "content": "FilmFreewayは映画祭への応募をとても簡単にしてくれました！",
+        "author": "Alex P."
+      },
+      {
+        "content": "このプラットフォームは私たちの映画祭をスムーズに管理するのに役立ちました。",
+        "author": "Maria T."
+      },
+      {
+        "content": "世界中の映画コンテストを発見するためのゲームチェンジャーです。",
+        "author": "John K."
+      }
+    ]
+  },
+  "page5": {
+    "title": "映画祭のハイライト",
+    "images": []
+  },
+  "page6": {
+    "title": "今すぐコミュニティに参加しよう",
+    "signUpButton": "始める"
+  }
+}

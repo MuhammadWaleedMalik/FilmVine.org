@@ -1,0 +1,56 @@
+{
+  "page1": {
+    "title": "发现精彩节日",
+    "subtitle": "世界排名第一的电影节和剧本比赛报名方式",
+    "exploreButton": "了解更多"
+  },
+  "page2": {
+    "title": "受到行业领袖的信赖",
+    "trustedPartners": "https://static-assets.filmfreeway.com/assets/logos/dark_logo_row-1-731b394b2f694f0e63d4a09b52cf767e2e17092bb0a14da808ae4a5656a0086d.webp"
+  },
+  "page3": {
+    "title": "探索我们的服务",
+    "cards": [
+      {
+        "title": "发现精彩节日",
+        "content": "浏览成千上万个世界顶级电影节和比赛。",
+        "link": "/festivals"
+      },
+      {
+        "title": "智能便捷的投稿方式",
+        "content": "添加你的项目，然后点击提交。简单快捷。",
+        "link": "/submit"
+      },
+      {
+        "title": "彻底改变节日和比赛的方式",
+        "content": "接收投稿、售票、宣传并管理你的活动。",
+        "link": "/manage"
+      }
+    ]
+  },
+  "page4": {
+    "title": "客户评价",
+    "reviews": [
+      {
+        "content": "FilmFreeway 让投稿变得如此简单高效！",
+        "author": "Alex P."
+      },
+      {
+        "content": "这个平台帮助我们无缝管理电影节。",
+        "author": "Maria T."
+      },
+      {
+        "content": "在全球发现电影比赛的颠覆者。",
+        "author": "John K."
+      }
+    ]
+  },
+  "page5": {
+    "title": "节日亮点",
+    "images": []
+  },
+  "page6": {
+    "title": "立即加入我们的社区",
+    "signUpButton": "开始使用"
+  }
+}

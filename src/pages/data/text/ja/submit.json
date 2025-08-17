@@ -1,0 +1,14 @@
+{
+  "title": "映画祭を登録する",
+  "subtitle": "映画祭を当プラットフォームに登録し、世界中の映画制作者とつながりましょう。",
+  "form": {
+    "title": "映画祭登録フォーム",
+    "festivalNameLabel": "映画祭の名前",
+    "descriptionLabel": "映画祭の説明",
+    "locationLabel": "開催場所",
+    "startDateLabel": "開始日",
+    "endDateLabel": "終了日",
+    "contactEmailLabel": "連絡先メール",
+    "submitButton": "映画祭を登録する"
+  }
+}

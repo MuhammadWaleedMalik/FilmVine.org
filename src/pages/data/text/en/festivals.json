@@ -1,0 +1,43 @@
+{
+  "title": "Ask About Any Film Festival",
+  "subtitle": "Get answers to your questions about film festivals worldwide, from submissions to event details.",
+  "howToUse": {
+    "title": "How to Use Our Festival Inquiry Tool",
+    "steps": [
+      {
+        "title": "Search for a Festival",
+        "description": "Use our platform to browse thousands of film festivals. Filter by genre, location, or submission deadlines to find the event you're curious about. Our curated database includes both indie and major festivals."
+      },
+      {
+        "title": "Ask Your Question",
+        "description": "Enter your question about any festival in our inquiry form. Whether it's about submission requirements, deadlines, or event logistics, our team is here to help with tailored answers."
+      },
+      {
+        "title": "Get Expert Answers",
+        "description": "Receive detailed responses from our festival experts. We'll provide insights on festival details, tips for submissions, or advice on attending, helping you make informed decisions."
+      }
+    ]
+  },
+  "questionTypes": {
+    "title": "Types of Questions You Can Ask",
+    "examples": [
+      {
+        "question": "What are the submission requirements for a specific festival?",
+        "description": "Ask about eligibility, film formats, or fees for any festival in our database. We’ll provide detailed requirements to ensure your submission meets the festival’s criteria."
+      },
+      {
+        "question": "When is the deadline for a festival?",
+        "description": "Inquire about submission deadlines for any festival worldwide. We’ll share exact dates and any early-bird or late-entry options to help you plan your submission."
+      },
+      {
+        "question": "What’s the vibe of a festival?",
+        "description": "Learn about a festival’s atmosphere, audience, or focus. We can provide insights on whether it’s a niche indie event or a large international showcase to match your film’s goals."
+      }
+    ]
+  },
+  "inquiryForm": {
+    "title": "Submit Your Festival Inquiry",
+    "inputLabel": "Your Question",
+    "submitButton": "Ask Now"
+  }
+}

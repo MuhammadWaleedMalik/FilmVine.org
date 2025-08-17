@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "nameAlt": "WFCN 平台",
+    "slogan": "创新解决方案"
+  },
+  "navigation": {
+    "title": "导航",
+    "links": [
+      { "path": "/about", "label": "关于" },
+      { "path": "/blogs", "label": "博客" },
+      { "path": "/movies", "label": "列表" },
+      { "path": "/faqs", "label": "常见问题" },
+      { "path": "/contact", "label": "联系我们" }
+    ]
+  },
+  "legal": {
+    "title": "法律",
+    "links": [
+      { "path": "/terms", "label": "条款" },
+      { "path": "/privacy", "label": "隐私政策" }
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "info": [
+      { "type": "mail", "text": "info@weinko.com" },
+      { "type": "phone", "text": "+1-234-567-890" }
+    ]
+  },
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Instagram", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "© {year}",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  }
+}

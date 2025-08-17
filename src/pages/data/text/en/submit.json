@@ -1,0 +1,14 @@
+{
+  "title": "Submit Your Festival",
+  "subtitle": "Register your film festival with our platform to connect with filmmakers worldwide.",
+  "form": {
+    "title": "Festival Registration Form",
+    "festivalNameLabel": "Festival Name",
+    "descriptionLabel": "Festival Description",
+    "locationLabel": "Location",
+    "startDateLabel": "Start Date",
+    "endDateLabel": "End Date",
+    "contactEmailLabel": "Contact Email",
+    "submitButton": "Register Festival"
+  }
+}

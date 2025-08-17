@@ -1,0 +1,16 @@
+{
+  "logoAlt": "ExactPilot",
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务",
+    "blog": "博客",
+    "explore": "探索",
+    "login": "登录",
+    "signup": "注册",
+    "logout": "登出"
+  },
+  "languageSelector": {
+    "changeLanguageLabel": "更改语言"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Your Festival Questions Answered",
+  "subtitle": "Find answers to common questions about discovering, submitting to, and managing film festivals.",
+  "faqs": [
+    {
+      "question": "How can I find the right festival for my film?",
+      "answer": "Our platform makes it easy to discover thousands of film festivals worldwide. Use our advanced search tools to filter by genre, location, submission deadlines, or festival type. Whether you're an indie filmmaker or a seasoned director, you can browse curated lists tailored to your film's style and budget. From local events to international showcases, we connect you with opportunities to get your work seen. Start exploring today and find the perfect festival to share your story!",
+      "link": "/festivals"
+    },
+    {
+      "question": "What makes submitting films on your platform easy?",
+      "answer": "Submitting your film is a breeze with our user-friendly platform. Simply upload your project details once, and reuse them for multiple submissions. Select festivals from our extensive database and submit with a single click. Track your submissions in real-time and get notified about festival decisions. Our intuitive interface eliminates complex forms and paperwork, saving you time. Focus on your craft while we streamline the submission process for you!",
+      "link": "/submit"
+    },
+    {
+      "question": "How does your platform help festival organizers?",
+      "answer": "Our platform revolutionizes festival management with all-in-one tools. Organizers can receive submissions, review entries with customizable criteria, and manage secure file uploads. Sell tickets and promote your event with integrated marketing features. Real-time analytics help you track engagement and attendance. From small community screenings to global festivals, our scalable solutions simplify logistics. Empower your festival to shine while focusing on curating an unforgettable experience!",
+      "link": "/manage"
+    }
+  ]
+}
